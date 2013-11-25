@@ -1,5 +1,5 @@
 An Introduction to Interactive Programming in Python
-====================================================
+-----------------------------------------------------
 
 ![Interactive Python](https://raw.github.com/baskaran-md/interactive-python/master/An_Introduction_to_Interactive_Programming_in_Python_Coursera.png "Interactive Python")
 
